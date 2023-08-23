@@ -10,6 +10,8 @@
 This is a node.js module to simplify defining, reading and writing binary blobs,
 whether they be internet protocols or files.
 
+## Hard forked from [Here](https://github.com/ProtoDef-io/node-protodef)
+
 ## Installing
 
 ```
